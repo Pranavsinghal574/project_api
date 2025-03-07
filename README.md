@@ -1,16 +1,17 @@
-# assignmentproject
+# API Fetch Example (Flutter)
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This is a simple Flutter application that fetches and displays posts from a public API (`https://jsonplaceholder.typicode.com/posts`). The app uses the `http` package to make API requests and updates the UI dynamically.
 
-This project is a starting point for a Flutter application.
+## Project Setup Instructions
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites:
+- Install Flutter: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
+- Ensure you have an IDE (VS Code, Android Studio) with Flutter configured.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Steps to Run:
+1. **Clone the Repository**
+   ```bash
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Pranavsinghal574/project_api
